@@ -1,0 +1,38 @@
+name: learnhub
+description: A modern learning platform for educational content.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI & Fonts
+  google_fonts: ^6.1.0
+
+  # State Management & Navigation
+  provider: ^6.1.1
+
+  # Animations
+  animations: ^2.0.11
+
+  # Icons & Assets
+  cupertino_icons: ^1.0.6
+
+  # HTTP & Storage
+  http: ^1.1.0
+  shared_preferences: ^2.2.2
+
+  # Demo authentication (simple local storage)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
