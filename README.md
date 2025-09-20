@@ -1,16 +1,44 @@
 # learnhub
 
-A new Flutter project.
+An Android app built with **Flutter** as part of my GDG Core Team task.  
+It provides a simple **login flow**, a **homepage with learning cards**, and a **profile screen**.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- **Login Screen**
+  - Login via Email or Google (UI flow)
+- **Homepage**
+  - Scrollable list of learning topics as cards
+  - Clean, modern UI
+  - Navigation to profile
+- **Profile Screen**
+  - Displays user details with avatar, name, and contact info
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📸 Screenshots
+(Add screenshots of your app here after running it)
+- Login Page  
+- Homepage with Cards  
+- Profile Page  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+- **Flutter** (Dart)
+- Material Design
+- Reusable Widgets
+
+---
+
+## 📂 Project Structure
+
+lib/
+├── main.dart
+├── screens/
+│ ├── login_screen.dart
+│ ├── home_screen.dart
+│ └── profile_screen.dart
+└── widgets/
+└── course_card.dart
