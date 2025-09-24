@@ -13,7 +13,7 @@ It provides a simple **login flow**, a **homepage with learning cards**, and a *
   - Clean, modern UI
   - Navigation to profile
 - **Profile Screen**
-  - Displays user details with avatar, name, and contact info
+  - Displays user details with avatar, name, and contact info /
 
 ---
 
